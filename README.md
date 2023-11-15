@@ -54,6 +54,7 @@ _Yes, my machines are called after Mass Effect ships. It's not weird_
 | wlogout | session management|
 | grim | screenshot util|
 | slurp| region selector for screensharing / shot|
+| chezmoi | Dotfile manager |
 <details>
 
 
