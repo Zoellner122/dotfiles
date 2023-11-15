@@ -46,8 +46,8 @@ _Yes, my machines are called after Mass Effect ships. It's not weird_
 | ------------- | ------------- |
 | hyprland-git  | Main WM (on Normandy)
 | hyprland-nvidia-git| Main WM with Nvidia patches (on Tempest)|
-| hyprpaper | wallpaper manager|
-| mako| notification daemon
+| wpapered-git | wallpaper manager|
+| dunst | notification daemon
 | waybar | status bar|
 | wofi | app launcher|
 | swayidle | idle management daemon|
