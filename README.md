@@ -35,7 +35,8 @@ _Yes, my machines are called after Mass Effect ships. It's not weird_
 
 <summary> Operating System</summary>
 
- _Really? What do you think?_ ![](https://imgs.search.brave.com/RtRAmwwBkbQcgBsDG2mGcTtCz6RHfrdqXbyS6Eg-0hY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hcmNo/bGludXgub3JnL3N0/YXRpYy9sb2dvcy9h/cmNobGludXgtbG9n/by1kYXJrLTkwZHBp/LmViZGVlOTJhMTVi/My5wbmc)
+ _Really? What do you think?_ 
+ ![](https://imgs.search.brave.com/RtRAmwwBkbQcgBsDG2mGcTtCz6RHfrdqXbyS6Eg-0hY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hcmNo/bGludXgub3JnL3N0/YXRpYy9sb2dvcy9h/cmNobGludXgtbG9n/by1kYXJrLTkwZHBp/LmViZGVlOTJhMTVi/My5wbmc)
 
 
 <details>
